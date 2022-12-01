@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Simone Cambursano 
+- 🏫 I currently study Electronic and Communication Engineering at Politecnico di Torino.
+- 🛠️ Fond of Analog Electronics and Metrology. Home-equipped with Oscilloscope, Bench Multimeter, Wave Generator and Power Supply.
+- 📚 Lover of Fëdor Dostoevskij and entrepreneurship books.
+- 🌱 I’m currently learning C/C++
+- 📫 s270997@studenti.polito.it
